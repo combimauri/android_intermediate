@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:layout_weight="4"
         android:weightSum="3"
-        android:background="#ff263aff">
+        android:background="#ff4d9cff">
 
         <Button
             android:layout_width="match_parent"
@@ -56,7 +56,7 @@
         android:layout_height="match_parent"
         android:layout_weight="4"
         android:weightSum="5"
-        android:background="#ff1a36ff">
+        android:background="#ff5532ff">
 
         <Button
             android:layout_width="match_parent"
